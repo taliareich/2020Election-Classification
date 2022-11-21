@@ -7,7 +7,7 @@ I used datasets containing information regarding [racial diversity](https://www.
 # Methods
 Through various iterations of different classification models focusing on inference (logistic regression, random forest, etc.), normalizing features, and optimizing parameters, I was able to achieve my desired model and identify the most important indicators. 
 # Results
-My final logistic regression model had an f1-score of 73% and coefficient analysis showed, amongst other trends, that racial diversity is a good indicator for a win for Biden. 
+My final logistic regression model had an f1-score of 73% and coefficient analysis showed, amongst other trends, that a county's percentage of voters from a racial minority (non-white) is a good indicator for a win for Biden. 
 # Further Analysis
 More analysis is critical to getting a more nuanced view of what actually influences people to vote. Since this project focuses on binary outcome rather than voter turnout, a good next step would be to predict voter turnout numbers using similar data. 
 # For More Information
